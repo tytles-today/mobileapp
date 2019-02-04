@@ -1,0 +1,1046 @@
+<!DOCTYPE HTML>
+<html>
+<head> 
+
+<script src="https://code.jquery.com/jquery-3.1.0.js"></script>
+<link rel="style.css" href="css/liMarquee.css">
+<script src="js/jquery.liMarquee.js"></script>  
+<script>
+$(window).on('load',function(){
+    $('.navbar').liMarquee();
+})
+</script> 
+
+<script src="https://code.jquery.com/jquery-3.1.0.js"></script>
+<link rel="style.css" href="css/liMarquee.css">
+<script src="js/jquery.liMarquee.js"></script>  
+<script>
+$(window).on('load',function(){
+    $('.navbar2').liMarquee();
+})
+</script>
+
+<script src="https://code.jquery.com/jquery-3.1.0.js"></script>
+<link rel="style.css" href="css/liMarquee.css">
+<script src="js/jquery.liMarquee.js"></script>  
+<script>
+$(window).on('load',function(){
+    $('.navbar3').liMarquee();
+})
+</script>
+
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-6337428872705984",
+    enable_page_level_ads: true
+  });
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-125598721-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-125598721-1');
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-6337428872705984",
+          enable_page_level_ads: true
+     });
+</script>
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"25030620"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
+
+
+
+
+<link href="https://fonts.googleapis.com/css?family=Cuprum:700|Iceland|EB+Garamond:500" rel="stylesheet"><title> Tytles. </title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+
+<div class="navbar2">
+    <div class="subject2">
+        <a>     
+                <div class="subject"><a><font color="#00CE9">< ></a></div></font>  
+
+    <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+<div class="subject">
+<a>- MORNING EDITION -</a></font>
+</div>
+
+<div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+<div class="subject">
+<a><font color="#ABABAB">CURRENT</a></font>
+</div>
+<div class="subject">
+<a><font color="#00CE9">:</a></font>
+</div>
+<div class="subject">
+<a>2019-02-04</a></font>
+</div>
+<div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+</div>
+</div>
+</div>
+</div>  
+
+<div class="header">
+<center>
+   <a href="tkt21.html"> <img src="logo.png"></a>
+</center>
+</div>
+
+<div class="subheader"> 
+     <a>
+    2019-02-04
+    <p>
+    PUBLISHED: 7:00AM EST / 4:00AM PT DAILY
+    <p>
+    SAME NEWS. DIFFERENT VIEW. <a href="tkt26.html"><img src="searchtytles.png"></a>
+
+                 
+    </a>
+</div>
+<p>
+<div class="navbar"> 
+<div class="subject">
+        <a> 
+        <div class="subject"><a><font color="#00CE9">< ></a></div></font>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+        <div class="subject"><a href="tkt21.html">ADAM LEVINE</font></a></div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+
+                <div class="subject"><a href="tkt22.html">21 SAVAGE</font></a></div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+
+                <div class="subject"><a href="tkt23.html">GLADYS KNIGHT</font></a></div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+
+        <div class="subject"><a href="tkt24.html">GISELE BUNDCHEN</font></a></div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+
+        <div class="subject"><a href="tkt25.html">DONALD TRUMP</font></a></div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+  
+</a>
+</div>
+    </div>
+    <p>
+<div class="navbar2">
+    <div class="subject2">
+        <a> 
+             <div class="subject"><a><font color="#00CE9">< ></a></div></font>  
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+   <div class="subject">
+        <a href="https://abcnews.go.com/"><font color="#FFD479">ABC</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="http://www.abc.net.au/news/"><font color="#FFD479">ABC AU</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.aljazeera.com/"><font color="#FFD479">AL JAZEERA</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.apnews.com/"><font color="#FFD479">AP</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="http://www.bbc.com/"><font color="#FFD479">BBC</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.bloomberg.com/"><font color="#FFD479">BLOOMBERG</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.breitbart.com/"><font color="#FFD479">BREITBART</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.businessinsider.com/"><font color="#FFD479">BUSINESS INSIDER</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.cbc.ca/news"><font color="#FFD479">CBC</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.cbsnews.com/"><font color="#FFD479">CBS</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.cnn.com/"><font color="#FFD479">CNN</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.dailymail.co.uk/ushome/index.html"><font color="#FFD479">DAILY MAIL</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.engadget.com/"><font color="#FFD479">ENGADGET</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://ew.com/"><font color="#FFD479">ENTERTAINMENT WEEKLY</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.ft.com/"><font color="#FFD479">FINANCIAL TIMES</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="http://fortune.com/"><font color="#FFD479">FORTUNE</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="http://www.foxnews.com/"><font color="#FFD479">FOX</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.independent.co.uk/us"><font color="#FFD479">INDEPENDANT</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+    <div class="subject">
+        <a href="https://www.mirror.co.uk/"><font color="#FFD479">MIRROR</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.msnbc.com/"><font color="#FFD479">MSNBC</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.nationalreview.com/"><font color="#FFD479">NATIONAL REVIEW</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.nbcnews.com/"><font color="#FFD479">NBC</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.newsweek.com/"><font color="#FFD479">NEWSWEEK</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="http://nymag.com/"><font color="#FFD479">NYMAG</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.politico.com/"><font color="#FFD479">POLITICO</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.reuters.com/"><font color="#FFD479">REUTERS</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.rt.com/"><font color="#FFD479">RT</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.rte.ie/"><font color="#FFD479">RTE</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://techcrunch.com/"><font color="#FFD479">TECH CRUNCH</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.theamericanconservative.com/"><font color="#FFD479">THE AMERICAN CONSERVATIVE</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.economist.com/"><font color="#FFD479">THE ECONOMIST</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://business.financialpost.com/"><font color="#FFD479">FINANCIAL POST</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.theguardian.com/us"><font color="#FFD479">THE GUARDIAN</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://thehill.com/"><font color="#FFD479">THE HILL</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.huffingtonpost.com/"><font color="#FFD479">HUFFPOST</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.nytimes.com/"><font color="#FFD479">NEW YORK TIMES</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.telegraph.co.uk/"><font color="#FFD479">THE TELEGRAPH</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://timesofindia.indiatimes.com/"><font color="#FFD479">TIMES OF INDIA</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.theverge.com/"><font color="#FFD479">VERGE</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.wsj.com/"><font color="#FFD479">WALL STREET JOURNAL</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.washingtonpost.com/"><font color="#FFD479">WASHINGTON POST</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.washingtontimes.com/"><font color="#FFD479">WASHINGTON TIMES</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="http://time.com/"><font color="#FFD479">TIME</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.usatoday.com/"><font color="#FFD479">USA TODAY</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.vice.com/en_us"><font color="#FFD479">VICE</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="https://www.wired.com/"><font color="#FFD479">WIRED</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+    <div class="subject">
+        <a href="http://www.xinhuanet.com/english/"><font color="#FFD479">XINHUA</a></font>
+    </div>
+                     <div class="subject"><a><font color="#00CE9">|</a></font>  </div>
+
+</div>
+</div>
+
+
+
+        </a>
+    </div>
+    
+</div>
+<br>
+<br>
+<br>
+
+<div class="paragraph3">
+10, 000, 000 SEARCHES
+<p>
+21 ARTICLES
+</div>
+
+<div class="pagetitle">
+Adam Levine.
+</div>
+<p>
+
+
+
+
+        <div class="newsboxset">
+        <div class="newsbox">
+<font color="#A4FFFF">
+                <img src="NABC.png" />
+                <div class="stopfloat"> </div>
+<br>
+                   N/A
+                        </a>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+            </div>
+
+            
+            <div class="newsbox">    
+<font color="#A4FFFF">
+                <img src="NABCAU.png" />
+                <div class="stopfloat"> </div>
+                <br>
+                   N/A
+                        </a>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+            </div>
+
+            
+            <div class="newsbox">    
+<font color="#A4FFFF">
+                <img src="NALJAZEERA.png" />
+                <div class="stopfloat"> </div>
+                <br>
+                   N/A
+                        </a>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+            </div>
+
+            
+            <div class="newsbox">            
+<a href="https://www.apnews.com/d198747e54f4478cbfcb323c77534beb" target="_blank"><font color="#FFD479">
+                <img src="NASSOCIATEDPRESS.png" />
+                <div class="stopfloat"> </div>
+               <br>
+           <i>    Pampers Kicks off New "Love the Change" Campaign with Adam Levine, John Legend...</i>
+
+                        </a>
+            </div>
+
+
+            <div class="newsbox">  
+<a href="https://www.bbc.co.uk/news/entertainment-arts-47112127" target="_blank"><font color="#FFD479">                      
+                <img src="nBBC.png" />
+                <div class="stopfloat"> </div>
+               <br>
+               <i>   Maroon 5's Super Bowl show fails to catch fire</i>
+
+                        </a>
+                        <br>
+                        <br>
+            </div>
+            
+            
+            <div class="newsbox">  
+<font color="#A4FFFF">
+                <img src="NBLOOMBERG.png" />
+                <div class="stopfloat"> </div>
+               <br>
+                   N/A
+                        </a>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+            </div>
+
+                        
+            <div class="newsbox">       
+<font color="#A4FFFF">
+                <img src="NBRIETBART.png" />
+                <div class="stopfloat"> </div>
+                <br>
+                   N/A
+                        </a>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+            </div>
+
+                        
+            <div class="newsbox">    
+<a href="https://www.businessinsider.com/maroon-5-super-bowl-halftime-show-reactions-2019-2" target="_blank"><font color="#FFD479">                   
+                <img src="NBUSINESSINSIDER.png" />
+                <div class="stopfloat"> </div>
+                <br>
+        <i>     Maroon 5's Super Bowl halftime show missed the mark for viewers - here's what they're...</i>
+
+                        </a>
+            </div>
+
+
+            
+            <div class="newsbox">
+<a href="https://www.cbc.ca/news/entertainment/maroon-5-super-bowl-halftime-1.5004295" target="_blank"><font color="#FFD479">
+            <img src="NCBC.png" />
+                <div class="stopfloat"> </div>
+                <br>
+            <i>    Maroon 5's Super Bowl halftime show 'underwhelming' and 'bland'</i>
+
+                        </a>
+            </div>
+
+                        
+            <div class="newsbox">      
+<font color="#A4FFFF">
+                <img src="NCBS.png" />
+                <div class="stopfloat"> </div>
+                <br>
+                   N/A
+                        </a>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+            </div>
+
+                        
+            <div class="newsbox">
+<a href="https://www.cnn.com/2019/02/03/entertainment/superbowl-halftime-show/index.html" target="_blank"><font color="#FFD479">        
+                <img src="NCNN.png" />
+                <div class="stopfloat"> </div>
+               <br>
+            <i>       Maroon 5 halftime show gets help from a famous sponge</i>
+
+                        </a>
+                        <br>
+                        <br>
+            </div>
+
+                        
+            <div class="newsbox">     
+<a href="https://www.dailymail.co.uk/tvshowbiz/article-6664697/Adam-Levine-gives-shout-Maroon-5s-late-manager-kick-Super-Bowl-halftime-show.html" target="_blank"><font color="#FFD479">
+                <img src="NDAILYMAIL.png" />
+                <div class="stopfloat"> </div>
+                <br>
+              <i>    Adam Levine gives a shout-out to Maroon 5's late manager during kick-off to...</i>
+
+                        </a>
+            </div>
+
+
+          
+                        
+            <div class="newsbox">     
+<font color="#A4FFFF">
+                <img src="nENGADGET.png" />
+                <div class="stopfloat"> </div>
+               <br>
+                   N/A
+                        </a>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+            </div>
+
+
+            <div class="newsbox">
+<a href="https://ew.com/music/2019/02/03/twitter-reacts-maroon-5-lackluster-halftime-performance/" target="_blank"><font color="#FFD479">                      
+                <img src="NENTERTAINMENTWEEKLY.png" />
+                <div class="stopfloat"> </div>
+                <br>
+            <i>  Twitter reacts to Maroon 5's lackluster Super Bowl halftime performance</i>
+
+                        </a>
+            </div>
+
+
+            <div class="newsbox">
+<font color="#A4FFFF">
+                <img src="NFINANCIALTIMES.png" />
+                <div class="stopfloat"> </div>
+                <br>
+                   N/A
+                        </a>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+            </div>
+
+                        
+            <div class="newsbox">       
+<font color="#A4FFFF">
+                <img src="NFORTUNE.png" />
+                <div class="stopfloat"> </div>
+                <br>
+                   N/A
+                        </a>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+            </div>
+
+       
+                        
+            <div class="newsbox">
+<a href="https://www.foxnews.com/entertainment/adam-levine-breaks-silence-after-maroon-5-super-bowl-halftime-show" target="_blank"><font color="#FFD479">         
+                <img src="NFOX.png" />
+                <div class="stopfloat"> </div>
+               <br>
+        <i>    Adam Levine breaks silence after Maroon 5's Super Bowl Halftime Show</i>
+
+                        </a>
+            </div>
+
+                        
+            <div class="newsbox">  
+<a href="https://www.independent.co.uk/arts-entertainment/music/news/maroon-5-super-bowl-halftime-show-travis-scott-reaction-adam-levine-a8761741.html" target="_blank"><font color="#FFD479">       
+                <img src="NINDEPENDANT.png" />
+                <div class="stopfloat"> </div>
+                <br>
+             <i>    Maroon 5 Super Bowl halftime show: Adam Levine responds after backlash branding...</i>
+
+                        </a>
+            </div>
+
+                        
+            <div class="newsbox">     
+<a href="https://www.mirror.co.uk/3am/celebrity-style/adam-levine-reveals-cute-beauty-13938398" target="_blank"><font color="#FFD479">                
+                <img src="NMIRROR.png" />
+                <div class="stopfloat"> </div>
+                <br>
+               <i>   Inside Adam Levine's intimate life with model wife Behati Prinsloo</i>
+
+                        </a>
+            </div>
+
+                        
+            <div class="newsbox">  
+<font color="#A4FFFF">
+                <img src="NMSNBC.png" />
+                <div class="stopfloat"> </div>
+               <br>
+                   N/A
+                        </a>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+            </div>
+
+           
+                        
+            <div class="newsbox">  
+<font color="#A4FFFF">
+                <img src="NNATIONALREVIEW.png" />
+                <div class="stopfloat"> </div>
+                <br>
+                   N/A
+                        </a>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+            </div>
+
+                        
+            <div class="newsbox">  
+<a href="https://www.nbcnews.com/news/us-news/maroon-5-headlines-super-bowl-53-halftime-show-help-spongebob-n966391" target="_blank"><font color="#FFD479">                    
+                <img src="NNBCNEWS.png" />
+                <div class="stopfloat"> </div>
+                <br>
+                  <i>   Maroon 5 headlines sleepy halftime show with SpongeBob cameo</i>
+
+                        </a>
+                        <br>
+                        <br>
+            </div>
+
+                        
+            <div class="newsbox"> 
+<a href="https://www.newsweek.com/maroon-5-super-bowl-halftime-approval-rating-vs-donald-trump-popularity-1315018" target="_blank"><font color="#FFD479">         
+                <img src="NNEWSWEEK.png" />
+                <br>
+          <i>   DONALD TRUMP'S APPROVAL RATING IS EVEN LOWER THAN MALIGNED SUPER...</i>
+
+                        </a>
+            </div>
+
+                       
+            <div class="newsbox">          
+<font color="#A4FFFF">
+                <img src="NNEWYORKMAGAZINE.png" />
+                <div class="stopfloat"> </div>
+                <br>
+                   N/A
+                        </a>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+            </div>
+
+       
+                        
+            <div class="newsbox">  
+<font color="#A4FFFF">
+                <img src="NPOLITICO.png" />
+                <div class="stopfloat"> </div>
+               <br>
+                   N/A
+                        </a>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+            </div>
+                        
+            <div class="newsbox">        
+<font color="#A4FFFF">
+                <img src="NREUTERS.png" />
+                <div class="stopfloat"> </div>
+                <br>
+                   N/A
+                        </a>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+            </div>
+
+                        
+            <div class="newsbox">      
+<font color="#A4FFFF">
+                <img src="NRT.png" />
+                <div class="stopfloat"> </div>
+               <br>
+                   N/A
+                        </a>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+            </div>
+
+                        
+            <div class="newsbox">    
+<a href="https://www.rte.ie/entertainment/2019/0204/1027377-viewers-slam-maroon-5s-superbowl-half-time-performance/" target="_blank"><font color="#FFD479">       
+                <img src="NRTE.png" />
+                <div class="stopfloat"> </div>
+               <br>
+           <i>   Maroon 5's Superbowl half-time performance is torn to shreds on social media</i>
+
+                        </a>
+            </div>
+
+          
+            <div class="newsbox">   
+<font color="#A4FFFF">
+                <img src="NTECHCRUNCH.png" />
+                <div class="stopfloat"> </div>
+              <br>
+                   N/A
+                        </a>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+            </div>
+
+                       
+            <div class="newsbox">      
+<font color="#A4FFFF">
+                <img src="NTHEAMERICANCONSERVATIVE.png" />
+                <div class="stopfloat"> </div>
+                <br>
+                   N/A
+                        </a>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+            </div>
+
+            
+            <div class="newsbox">   
+<font color="#A4FFFF">
+                <img src="NTHEECONOMIST.png" />
+                <div class="stopfloat"> </div>
+               <br>
+                   N/A
+                        </a>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+            </div>
+
+                        
+            <div class="newsbox">   
+<font color="#A4FFFF">
+                <img src="NTHEFINANCIALPOST.png" />
+                <div class="stopfloat"> </div>
+                <br>
+                   N/A
+                        </a>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+            </div>
+
+        
+                       
+            <div class="newsbox">     
+<a href="https://www.theguardian.com/music/2019/feb/03/maroon-5-super-bowl-half-time-adam-levine-torso-tedious-review" target="_blank"><font color="#FFD479">                 
+                <img src="NTHEGUARDIAN.png" />
+                <div class="stopfloat"> </div>
+                <br>
+     <i>   Maroon 5's Super Bowl performance: Adam Levine's torso can't save tedious affair</i>
+
+                        </a>
+            </div>
+
+                       
+            <div class="newsbox">  
+<font color="#A4FFFF">
+                <img src="NTHEHILL.png" />
+                <div class="stopfloat"> </div>
+               <br>
+                   N/A
+                        </a>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+            </div>
+
+                        
+            <div class="newsbox">
+<a href="https://www.huffingtonpost.com/entry/people-love-that-adam-levines-super-bowl-shirt-looked-like-pillows-curtains_us_5c57b423e4b087104754a2e8" target="_blank"><font color="#FFD479">                      
+                <img src="NTHEHUFFINGTONPOST.png" />
+                <div class="stopfloat"> </div>
+              <br>
+           <i>   People Love That Adam Levine's Super Bowl Shirt Looked Like Pillows, Curtains</i>
+
+                        </a>
+            </div>
+
+                       
+            <div class="newsbox"> 
+<a href="https://www.nytimes.com/2019/02/03/arts/music/super-bowl-halftime-show.html" target="_blank"><font color="#FFD479">                   
+                <img src="NTHENEWYORKTIMES.png" />
+                <div class="stopfloat"> </div>
+               <br>
+          <i>  Maroon 5 Barely Leaves a Mark at Super Bowl Halftime Show</i>
+
+                        </a>
+                        <br>
+                        <br>
+            </div>
+
+  
+                        
+            <div class="newsbox">       
+<a href="https://www.telegraph.co.uk/music/news/super-bowl-halftime-show-2019-maroon-5-perform-mercedes-benz/" target="_blank"><font color="#FFD479">              
+                <img src="NTHETELEGRAPH.png" />
+                <div class="stopfloat"> </div>
+               <br>
+              <i>   Maroon 5 perform Girls Like You and This Love</i>
+                        </a>
+                        <br>
+                        <br>
+            </div>
+                       
+            <div class="newsbox">      
+<font color="#A4FFFF">
+                <img src="NTHETIMESOFINDIA.png" />
+                <div class="stopfloat"> </div>
+              <br>
+                   N/A
+                        </a>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+            </div>
+
+                        
+            <div class="newsbox">     
+<font color="#A4FFFF">
+            <img src="NTHEVERGE.png" />
+                <div class="stopfloat"> </div>
+               <br>
+                   N/A
+                        </a>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+            </div>
+
+                        
+            <div class="newsbox">      
+<font color="#A4FFFF">
+                <img src="NTHEWALLSTREETJOURNAL.png" />
+                <div class="stopfloat"> </div>
+              <br>
+                   N/A
+                        </a>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+            </div>
+
+    
+                        
+            <div class="newsbox">         
+<a href="https://www.washingtonpost.com/" target="_blank"><font color="#FFD479">           
+                <img src="NTHEWASHINGTONPOST.png" />
+                <div class="stopfloat"> </div>
+               <br>
+             <i>     Maroon 5 Super Bowl halftime show: 5 important questions, from SpongeBob to...</i>
+                        </a>
+            </div>
+                       
+            <div class="newsbox">      
+<a href="https://www.washingtontimes.com/news/2019/feb/3/adam-levine-super-bowl-halftime-performance-have-h/" target="_blank"><font color="#FFD479">           
+                <img src="NTHEWASHINGTONTIMES.png" />
+                <div class="stopfloat"> </div>
+                <br>
+           <i>  Maroon 5 Super Bowl halftime performance to have 'biggest hip-hop presence'</i>
+
+                        </a>
+            </div>
+
+                        
+            <div class="newsbox">           
+<a href="http://time.com/5519805/super-bowl-meme-adam-levine-shirt/" target="_blank"><font color="#FFD479">            
+                <img src="NTIMES.png" />
+                <div class="stopfloat"> </div>
+               <br>
+               <i>      People Noticed Adam Levine's Super Bowl Halftime Shirt Looked an Awful Lot Like...</i>
+
+                        </a>
+            </div>
+
+                        
+            <div class="newsbox">         
+<a href="https://www.usatoday.com/story/life/2019/02/03/super-bowl-halftime-show-reaction-adam-levine-nipples-spongebob/2764889002/" target="_blank"><font color="#FFD479">         
+                <img src="NUSATODAY.png" />
+                <div class="stopfloat"> </div>
+                <br>
+          <i>   Twitter wanted more SpongeBob, less of Adam Levine's nipples at Super Bowl...</i>
+
+                        </a>
+            </div>
+                        
+            <div class="newsbox">         
+<font color="#A4FFFF">
+                <img src="NVICE.png" />
+                <div class="stopfloat"> </div>
+                <br>
+                   N/A
+                        </a>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+            </div>
+                        
+            <div class="newsbox">          
+<font color="#A4FFFF">
+                <img src="NWIRED.png" />
+                <div class="stopfloat"> </div>
+              <br>
+                   N/A
+                        </a>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+            </div>
+
+                                  
+            <div class="newsbox">        
+<font color="#A4FFFF">
+                <img src="NXINHUANET.png" />
+                <div class="stopfloat"> </div>
+                <br>
+                   N/A
+                        </a>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+            </div>
+
+
+         
+
+              
+</div> 
+            
+</div>
+<br>
+<br>
+
+
+</body>
+
+
+<div id="amzn-assoc-ad-02d97019-f4c9-45f1-b799-c2afee604e9f"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=02d97019-f4c9-45f1-b799-c2afee604e9f"></script>
+<script type="text/javascript">
+    amzn_assoc_ad_type = "link_enhancement_widget";
+    amzn_assoc_tracking_id = "tytles-20";
+    amzn_assoc_linkid = "11f7dd80f35cbd84006aa8d9e46e66b1";
+    amzn_assoc_placement = "";
+    amzn_assoc_marketplace = "amazon";
+    amzn_assoc_region = "US";
+</script>
+<script src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1&MarketPlace=US"></script>
+<br>
+<br>
+<br>
+
+
+
+
+</html>
